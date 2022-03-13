@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Dileep kumar 👋
 
 <!--
 **Dileepkumar18311/Dileepkumar18311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dileepkumar18311)  
+<br/>
+ ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=Dileepkumar1831)
+![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=Dileepkumar183186)  
+
+![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=Dileepkumar1831)  
+    
