@@ -28,3 +28,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dileepkumar18311&show_icons=true&locale=en" alt="dileepkumar18311" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dileepkumar18311&" alt="dileepkumar18311" /></p>
+
+               Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
+<br/>
+ ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
+![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=fahad-qureshi786)  
+
+![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-qureshi786)  
+
